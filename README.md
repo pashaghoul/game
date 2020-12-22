@@ -1,1 +1,1 @@
-# game RTS
+# game RTS race
